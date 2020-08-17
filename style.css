@@ -1,0 +1,29 @@
+#div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #808080;
+    height: 300px;
+    width: 600px;
+    
+}
+
+#div2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #7e2d2d;
+    height: 300px;
+    width: 600px;
+    
+}
+
+#drag1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f5deb3;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
